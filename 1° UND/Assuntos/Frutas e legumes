@@ -1,0 +1,28 @@
+FRUTAS
+
+abacate  = avocado
+banana   = banana
+uva      = grapes 
+morango  = strawberry
+laranja  = orange 
+limao    = lemom
+melao    = papaya
+abacaxi  = pineapple
+maça     = apple 
+melancia = watermelon
+
+==========================
+VEGETAIS
+
+repolho  = lettuce
+cenoura  = carrot
+cebola   = onion 
+alho     = garlic 
+pepino   = cucumber
+pimenta  = pepper
+pimentao = bell peppers
+batata   = potato
+girimun  = pumpkin
+milho    = corn
+tomate   = tomato
+azeitona = olive

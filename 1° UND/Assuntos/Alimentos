@@ -1,0 +1,48 @@
+ALIMENTO 
+
+carne       = beef/ steak
+salsicha    = sausage
+camarão     = shrimp
+carangueijo = crap 
+peixe       = fish
+frango      = chicken
+presunto    = ham
+lagosta     = lobster
+---------------------------
+VARIANTE DE LEITE
+
+leite       = milk
+yorgut      = yogurt
+manteiga    = butter
+queijo      = cheese
+requeijao   = cream cheese
+-----------------------------
+GERAL
+
+pao          = break
+ovo          = eggs
+açucar       = sugar
+cereal       = cereal
+arroz        = rice
+macarrão     = pasta
+samduiche    = sandwich
+hamburg      = burger
+batata frita = fries or chips
+--------------------------
+BEBIDAS
+
+café          = coffee
+suco de fruta = fruit juice
+chá           = tea
+refrigerente  = soda / pop
+serveja       = beer
+vinho         = wine
+agua          = water
+---------------------------
+SOBREMESA 
+
+chocolate    = chocolate
+torta        = pie
+bolo         = cake
+doce bala    = candy or sweet
+sorvete      = ice cream
