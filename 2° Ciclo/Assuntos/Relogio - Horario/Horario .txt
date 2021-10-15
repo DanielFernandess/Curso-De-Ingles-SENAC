@@ -1,0 +1,9 @@
+it's (minuto) past (hora)
+
+15 minutos = QUATER	
+
+30 minutos = HALF
+
+o'clock = 0 minutos (hora fechada)
+
+11 = eleven 12 = twelve
