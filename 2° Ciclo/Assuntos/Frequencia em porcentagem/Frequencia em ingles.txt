@@ -1,0 +1,6 @@
+100% = Always
+80%  = Usually
+60%  = Often
+40%  = Sometimes
+20%  = Hardly Ever
+0%   = Never
