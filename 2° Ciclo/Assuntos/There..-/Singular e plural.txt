@@ -1,0 +1,9 @@
+     POSITIVO:
+There is - singular
+
+There are - plural
+
+      NEGATIVO:
+There isn't - singular
+
+There aren't - plural
