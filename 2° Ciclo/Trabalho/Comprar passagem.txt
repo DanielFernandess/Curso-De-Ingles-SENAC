@@ -1,0 +1,29 @@
+C: Hello.
+R: Hi, what do you want ?
+C: One ticket to London, please.
+
+R: One-way or round-trip ticket?
+
+C: A one-way ticket, please.
+
+R: The first bus?
+
+C: Yes
+.
+R: When do you want to go?
+
+C: Tomorrow, at three o'clock.
+
+R: Sorry, what time?
+
+C: Three o'clock.
+
+R: OK, that's sixty dollars.
+
+C: How much?
+
+R: Sixty dollars.
+
+C: Ok, thanks.
+R: Have a good trip.
+C: Thank you very much.
