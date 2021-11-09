@@ -1,0 +1,13 @@
+FORM:
+WAS - I, HE, SHE, IT.
+WERE - YOU, WE, THEY.
+
+PASSADO:(WAS and Were)
+I "WAS" tired yesterday
+
+PRESENT:
+I "AM" tired today.
+
+NEGATIVO:
+WASN'T - I, HE, SHE, IT.
+WEREN'T - YOU, WE, THEY.
