@@ -7,3 +7,8 @@ There are - plural
 There isn't - singular
 
 There aren't - plural
+
+      PERGUNTA:
+Is there..? - Singular
+
+Are there..? - Plural

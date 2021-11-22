@@ -1,4 +1,5 @@
 FORM:
+MY MOTHER = "SHE"
 WAS - I, HE, SHE, IT.
 WERE - YOU, WE, THEY.
 

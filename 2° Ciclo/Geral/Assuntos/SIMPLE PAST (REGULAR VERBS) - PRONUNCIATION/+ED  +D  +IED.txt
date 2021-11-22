@@ -1,16 +1,17 @@
 AFIRMATIVO:
 +ED / +D / +IED
 
+NORMAL, + ED
 WORK - WORKED
 
+TERMINA COM "E", + D
 LIVE - LIVED 
 
 TERMINA COM "Y", - Y + IED
 CRY - CRIED
 
-STOP - STOPPED
-
-LISTEN - LISTEND
+CVC,2X "C" + ED 
+STOP- STOPPED
 ------------------------
 NEGATIVO:
 
