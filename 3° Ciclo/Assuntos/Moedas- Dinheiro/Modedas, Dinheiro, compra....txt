@@ -1,0 +1,17 @@
+Coin - Moeda
+Banknotes - Notas
+Wallet = Carteira
+Credit card = Carteira
+Safe - Cofre
+Piggy bank = Cofrinho
+Save = 
+Pay = Pagar
+Purse = Bolsa
+Cash Register = Caixa Registradora
+ATM = Caixa loterico
+Pound = Libra
+Penny - Centavo
+Dollar = Dólar
+Cent = Centavo 
+Invoice / Bill = Fatura
+Receipt = Recibo
