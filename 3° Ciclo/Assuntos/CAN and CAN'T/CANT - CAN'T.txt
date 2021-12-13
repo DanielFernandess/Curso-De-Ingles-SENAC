@@ -1,0 +1,5 @@
+Afirmativo:
++CAN
+
+Negativo:
+-CAN'T
