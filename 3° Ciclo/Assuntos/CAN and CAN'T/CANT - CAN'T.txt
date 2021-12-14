@@ -1,5 +1,11 @@
 Afirmativo:
 +CAN
+aline CAN drive
 
 Negativo:
 -CAN'T
+Daniel CAN'T drive
+
+Pergunta?
+CAN you
+CAN aline drive?
