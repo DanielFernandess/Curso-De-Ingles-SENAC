@@ -1,0 +1,8 @@
+AFIRMATIVO:
+I'M GOING TO play soccer.
+
+NEGATIVO:
+I'm NOT GOING TO play soccer.
+
+INTEROGATIVO:
+ARE YOU GOING TO play soccer?
